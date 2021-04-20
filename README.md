@@ -10,7 +10,7 @@ The Tableau Storyboard is made up of 5 dashboards to present the analysis done o
 
 ## Report
 
-The Report details the explanations and justifications of insights found from the Global Superstore dataset and recommendations for strategic advancements and alterations to drive sales. 
+The Report details the explanation and justification of insights found from the Global Superstore dataset and include recommendations for strategic advancements and alterations of the business to drive more sales. 
 
 
 
