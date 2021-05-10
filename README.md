@@ -14,3 +14,5 @@ The Report details the explanation and justification of insights found from the 
 
 
 
+### Let me know how i can improve! 
+Contact me at khawjiaer@gmail.com.
