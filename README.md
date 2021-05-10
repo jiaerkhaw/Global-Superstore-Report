@@ -1,4 +1,4 @@
-# Global-Superstore-Report
+# Global Superstore Report
 
 Global Superstore Report consists of a Report and a Tableau Storyboard. 
 
